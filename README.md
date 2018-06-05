@@ -3,5 +3,6 @@
 ## Mini Lab
 
 - [x] pstree， 打印进程树
-- [ ] stat，系统调用统计
+- [x] stat，系统调用统计
+- [ ] crepl，在线编译
 
